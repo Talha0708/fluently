@@ -1,0 +1,1258 @@
+[
+  {
+    "word": "Bangladesh",
+    "bn": "বাংলাদেশ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Bangladeshi",
+    "bn": "বাংলাদেশি",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "India",
+    "bn": "ভারত",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Indian",
+    "bn": "ভারতীয়",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Pakistan",
+    "bn": "পাকিস্তান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "United States",
+    "bn": "মার্কিন যুক্তরাষ্ট্র",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "American",
+    "bn": "আমেরিকান",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "United Kingdom",
+    "bn": "যুক্তরাজ্য / ব্রিটেন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "British",
+    "bn": "ব্রিটিশ",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Canada",
+    "bn": "কানাডা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Canadian",
+    "bn": "কানাডীয়",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Australia",
+    "bn": "অস্ট্রেলিয়া",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Australian",
+    "bn": "অস্ট্রেলীয়",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Japan",
+    "bn": "জাপান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Japanese",
+    "bn": "জাপানি",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "China",
+    "bn": "চীন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Chinese",
+    "bn": "চীনা",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Germany",
+    "bn": "জার্মানি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "German",
+    "bn": "জার্মান",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "France",
+    "bn": "ফ্রান্স",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "French",
+    "bn": "ফরাসি",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Italy",
+    "bn": "ইতালি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Italian",
+    "bn": "ইতালীয়",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Saudi Arabia",
+    "bn": "সৌদি আরব",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Arabian",
+    "bn": "আরবীয়",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Turkey",
+    "bn": "তুরস্ক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Turkish",
+    "bn": "তুর্কি",
+    "phonetic": "",
+    "pos": "adjective",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Malaysia",
+    "bn": "মালয়েশিয়া",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Singapore",
+    "bn": "সিঙ্গাপুর",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Dubai",
+    "bn": "দুবাই",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Places",
+    "level": "A1"
+  },
+  {
+    "word": "Football",
+    "bn": "ফুটবল খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Cricket",
+    "bn": "ক্রিকেট খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Badminton",
+    "bn": "ব্যাডমিন্টন খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Tennis",
+    "bn": "টেনিস খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Table tennis",
+    "bn": "টেবিল টেনিস",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Volleyball",
+    "bn": "ভলিবল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Basketball",
+    "bn": "বাস্কেটবল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Hockey",
+    "bn": "হকি খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Golf",
+    "bn": "গলফ খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Baseball",
+    "bn": "বেসবল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Swimming",
+    "bn": "সাঁতার কাটা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Cycling",
+    "bn": "সাইক্লিং বা সাইকেল চালনা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Running",
+    "bn": "দৌড়ানো",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Jogging",
+    "bn": "হালকা দৌড়",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Marathon",
+    "bn": "ম্যারাথন দৌড়",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Gymnastics",
+    "bn": "জিমন্যাস্টিকস বা শরীরচর্চা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Weightlifting",
+    "bn": "ভারোত্তোলন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Boxing",
+    "bn": "মুষ্টিযুদ্ধ বা বক্সিং",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Wrestling",
+    "bn": "কুস্তি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Karate",
+    "bn": "কারাতে বা আত্মরক্ষা কৌশল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Judo",
+    "bn": "জুডো",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Archery",
+    "bn": "তীরন্দাজি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Shooting",
+    "bn": "শুটিং বা নিশানা লক্ষ্য",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Chess",
+    "bn": "দাবা খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Carrom",
+    "bn": "ক্যারম খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Ludo",
+    "bn": "লুডু খেলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Athlete",
+    "bn": "ক্রীড়াবিদ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Coach",
+    "bn": "প্রশিক্ষক বা কোচ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Referee",
+    "bn": "রেফারি বা বিচারক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Umpire",
+    "bn": "আম্পায়ার",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Championship",
+    "bn": "চ্যাম্পিয়নশিপ বা শ্রেষ্ঠত্ব প্রতিযোগিতা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Tournament",
+    "bn": "টুর্নামেন্ট বা টুর্নামেন্ট প্রতিযোগিতা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Trophy",
+    "bn": "ট্রফি বা বিজয় স্মারক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Medal",
+    "bn": "পদক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Gold medal",
+    "bn": "স্বর্ণপদক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Silver medal",
+    "bn": "রৌপ্যপদক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Bronze medal",
+    "bn": "ব্রোঞ্জ পদক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Stadium",
+    "bn": "স্টেডিয়াম বা খেলার মাঠ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A1"
+  },
+  {
+    "word": "Spectator",
+    "bn": "দর্শক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Opponent",
+    "bn": "প্রতিদ্বন্দ্বী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "B1"
+  },
+  {
+    "word": "Defeat",
+    "bn": "পরাজয়",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Victory",
+    "bn": "বিজয়",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Sports",
+    "level": "A2"
+  },
+  {
+    "word": "Guitar",
+    "bn": "গিটার",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Piano",
+    "bn": "পিয়ানো",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Violin",
+    "bn": "বেহালা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Flute",
+    "bn": "বাঁশি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Harmonium",
+    "bn": "হারমোনিয়াম",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Tabla",
+    "bn": "তবলা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Drums",
+    "bn": "ড্রাম বা ঢোল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Keyboard",
+    "bn": "কিবোর্ড বা সিন্থেসাইজার",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Microphone",
+    "bn": "মাইক্রোফোন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A1"
+  },
+  {
+    "word": "Melody",
+    "bn": "সুর বা সুরলহরী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Rhythm",
+    "bn": "ছন্দ বা তাল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Harmony",
+    "bn": "সমন্বয় বা সমস্বর",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Symphony",
+    "bn": "সিম্ফনি বা ঐকতান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B2"
+  },
+  {
+    "word": "Concert",
+    "bn": "সঙ্গীতানুষ্ঠান বা কনসার্ট",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Orchestra",
+    "bn": "ঐকতান বাদকদল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Composer",
+    "bn": "সুরকার",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Lyrics",
+    "bn": "গানের কথা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Vocalist",
+    "bn": "কণ্ঠশিল্পী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Sculpture",
+    "bn": "ভাস্কর্য",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Portrait",
+    "bn": "প্রতিকৃতি বা ছবি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Landscape",
+    "bn": "প্রাকৃতিক ভূদৃশ্যের চিত্র",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Masterpiece",
+    "bn": "কালজয়ী শিল্পকর্ম",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B2"
+  },
+  {
+    "word": "Gallery",
+    "bn": "শিল্পকলা প্রদর্শনী কেন্দ্র",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Exhibition",
+    "bn": "প্রদর্শনী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Literature",
+    "bn": "সাহিত্য",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Poetry",
+    "bn": "কবিতা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Novel",
+    "bn": "উপন্যাস",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Fiction",
+    "bn": "কল্পকাহিনী বা কথাসাহিত্য",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Biography",
+    "bn": "জীবনী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Autobiography",
+    "bn": "আত্মজীবনী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "B1"
+  },
+  {
+    "word": "Drama",
+    "bn": "নাটক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Arts",
+    "level": "A2"
+  },
+  {
+    "word": "Constitution",
+    "bn": "সংবিধান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Legislation",
+    "bn": "আইন প্রণয়ন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Judiciary",
+    "bn": "বিচার বিভাগ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Magistrate",
+    "bn": "ম্যাজিস্ট্রেট বা বিচারক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Prosecutor",
+    "bn": "সরকারি আইনজীবী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Defense attorney",
+    "bn": "আসামিপক্ষের আইনজীবী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Plaintiff",
+    "bn": "বাদী বা অভিযোগকারী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Defendant",
+    "bn": "বিবাদী বা আসামি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Testimony",
+    "bn": "সাক্ষ্যপ্রমাণ বা জবানবন্দি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Affidavit",
+    "bn": "হলফনামা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Summons",
+    "bn": "আদালতের তলব বা সমন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Warrant",
+    "bn": "গ্রেপ্তারি পরোয়ানা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Custody",
+    "bn": "আইনি হেফাজত",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Interrogation",
+    "bn": "জিজ্ঞাসাবাদ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Acquittal",
+    "bn": "বেখসুর খালাস",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "C1"
+  },
+  {
+    "word": "Conviction",
+    "bn": "দণ্ডাদেশ বা অপরাধ সাব্যস্ত",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Appeal",
+    "bn": "উচ্চ আদালতে আপিল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Civil rights",
+    "bn": "নাগরিক অধিকার",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Humanity",
+    "bn": "মানবতা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "A2"
+  },
+  {
+    "word": "Solidarity",
+    "bn": "সংহতি বা একাত্মতা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Sovereignty",
+    "bn": "সার্বভৌমত্ব",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Diplomacy",
+    "bn": "কূটনীতি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Ambassador",
+    "bn": "রাষ্ট্রদূত",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Embassy",
+    "bn": "দূতাবাস",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "A2"
+  },
+  {
+    "word": "Consulate",
+    "bn": "কনস্যুলেট বা উপদূতাবাস",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Treaty",
+    "bn": "আন্তর্জাতিক চুক্তি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Sanction",
+    "bn": "নিষেধাজ্ঞা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Refugee",
+    "bn": "শরণার্থী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B1"
+  },
+  {
+    "word": "Asylum",
+    "bn": "রাজনৈতিক আশ্রয়",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "B2"
+  },
+  {
+    "word": "Philanthropy",
+    "bn": "জনহিতৈষণা বা মানবকল্যাণ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Society",
+    "level": "C1"
+  },
+  {
+    "word": "Nebula",
+    "bn": "নীহারিকা বা গ্যাসীয় মেঘ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Supernova",
+    "bn": "সুপারনোভা বা তারার বিস্ফোরণ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Black hole",
+    "bn": "কৃষ্ণগহ্বর বা ব্ল্যাকহোল",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B1"
+  },
+  {
+    "word": "Milky Way",
+    "bn": "আকাশগঙ্গা ছায়াপথ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "A2"
+  },
+  {
+    "word": "Solar system",
+    "bn": "সৌরজগৎ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "A2"
+  },
+  {
+    "word": "Cosmonaut",
+    "bn": "মহাকাশচারী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B1"
+  },
+  {
+    "word": "Astronaut",
+    "bn": "নভোচারী বা মহাকাশচারী",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "A2"
+  },
+  {
+    "word": "Rocket",
+    "bn": "রকেট বা মহাকাশযান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "A2"
+  },
+  {
+    "word": "Spacecraft",
+    "bn": "মহাকাশযান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B1"
+  },
+  {
+    "word": "Space station",
+    "bn": "মহাকাশ স্টেশন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B1"
+  },
+  {
+    "word": "Light year",
+    "bn": "আলোকবর্ষ দূরত্বের একক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B1"
+  },
+  {
+    "word": "Superconductor",
+    "bn": "অতিপরিবাহী বা সুপারকন্ডাক্টর",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "C1"
+  },
+  {
+    "word": "Semiconductor",
+    "bn": "অর্ধপরিবাহী চিপ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Nanotechnology",
+    "bn": "ন্যানোপ্রযুক্তি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Biotechnology",
+    "bn": "জৈবপ্রযুক্তি",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Quantum",
+    "bn": "কোয়ান্টাম বা ক্ষুদ্রাতিক্ষুদ্র পরিমাণ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Science",
+    "level": "B2"
+  },
+  {
+    "word": "Artificial intelligence",
+    "bn": "কৃত্রিম বুদ্ধিমত্তা",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "A2"
+  },
+  {
+    "word": "Machine learning",
+    "bn": "মেশিন লার্নিং বা যান্ত্রিক শিখন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "B1"
+  },
+  {
+    "word": "Neural network",
+    "bn": "নিউরাল নেটওয়ার্ক",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "B2"
+  },
+  {
+    "word": "Automation",
+    "bn": "স্বয়ংক্রিয়করণ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "B1"
+  },
+  {
+    "word": "Algorithm",
+    "bn": "অ্যালগরিদম বা গাণিতিক ধাপ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "B1"
+  },
+  {
+    "word": "Robotics",
+    "bn": "রোবটবিজ্ঞান",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "A2"
+  },
+  {
+    "word": "Drone",
+    "bn": "চালকবিহীন ড্রোন",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "A2"
+  },
+  {
+    "word": "Biometrics",
+    "bn": "বায়োমেট্রিক্স বা শারীরিক শনাক্তকরণ",
+    "phonetic": "",
+    "pos": "noun",
+    "category": "Tech",
+    "level": "B2"
+  }
+]

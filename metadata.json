@@ -1,0 +1,8 @@
+{
+  "name": "Fluently - ইংরেজি শিখুন সহজে",
+  "description": "স্পেসড রিপিটিশন মেমোরি, ভয়েস স্পিকিং ল্যাব, ৩২০০+ শব্দকোষ ও ৫০টি মাস্টার মডিউলে সাবলীল ইংরেজি শিক্ষা",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

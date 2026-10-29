@@ -1,0 +1,44 @@
+{
+  "id": "/",
+  "name": "Fluently - ইংরেজি শিখুন সহজে",
+  "short_name": "Fluently",
+  "description": "স্পেসড রিপিটিশন মেমোরি, ভয়েস স্পিকিং ল্যাব, ৩২০০+ শব্দকোষ ও ৫০টি মাস্টার মডিউলে সাবলীল ইংরেজি শিক্ষা",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "books", "productivity"],
+  "shortcuts": [
+    {
+      "name": "স্পিকিং ল্যাব",
+      "short_name": "স্পিকিং",
+      "description": "ভয়েস স্পিকিং প্র্যাকটিস শুরু করুন",
+      "url": "/?tab=speaking",
+      "icons": [{ "src": "/icon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "স্মৃতি রিভিশন",
+      "short_name": "রিভিশন",
+      "description": "স্পেসড রিপিটিশন মেমোরি কার্ড রিভিশন",
+      "url": "/?tab=srs",
+      "icons": [{ "src": "/icon.svg", "sizes": "192x192" }]
+    }
+  ]
+}
