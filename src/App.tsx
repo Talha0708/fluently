@@ -8,12 +8,24 @@ import {
   Menu, X, MessageCircle, Copy, Download, Smartphone
 } from 'lucide-react';
 
-import { ALL_WORDS_DATABASE, ALL_CATEGORIES, WordItem } from './data/wordsData';
-import { SENTENCE_BANK, SENTENCE_CATEGORIES, SentenceItem } from './data/sentencesData';
 import {
-  ALL_CURRICULUM_PATH, CORE_MODULES, WORD_MODULES, SENT_MODULES,
-  STAGES, DAILY_QUESTS, STREAK_MILESTONES, ACHIEVEMENTS,
-  CurriculumModule, Lesson, Question
+  ALL_WORDS_DATABASE,
+  ALL_CATEGORIES,
+  WordItem,
+  SENTENCE_BANK,
+  SENTENCE_CATEGORIES,
+  SentenceItem,
+  ALL_CURRICULUM_PATH,
+  CORE_MODULES,
+  WORD_MODULES,
+  SENT_MODULES,
+  STAGES,
+  DAILY_QUESTS,
+  STREAK_MILESTONES,
+  ACHIEVEMENTS,
+  CurriculumModule,
+  Lesson,
+  Question
 } from './data/curriculumData';
 
 import {
